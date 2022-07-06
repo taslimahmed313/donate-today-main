@@ -101,23 +101,21 @@ body {
   margin: 0 auto;
   display: flex;
 }
-.wi a {
-  text-decoration: none;
+.btn-1 {
   text-align: center;
-  background: orangered;
-  width: 10%;
-  height: auto;
-  padding: 10px 20px;
-  left: 43%;
-  position: absolute;
-  float: right;
-  margin-top: 20px;
-  border-radius: 5px;
+}
+.btn-1 input {
+  padding: 10px 30px;
+  border: none;
+  margin-top: 15px;
+  background-color: orangered;
   color: white;
+  border-radius: 10px;
+  font-size: 15px;
 }
 .donate-plan {
   text-align: center;
-  margin-top: 150px;
+  margin-top: 100px;
 }
 .donate-plan h1 {
   font-size: 35px;
