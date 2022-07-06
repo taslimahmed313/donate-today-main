@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+}
+.first-part {
+  background-image: url(images/donation13.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.heading-fonts {
+  display: inline-block;
+  margin-top: 70px;
+  text-align: center;
+  margin-left: 250px;
+}
+.heading-fonts h1 {
+  font-size: 45px;
+  color: aqua;
+}
+.heading-fonts p {
+  color: white;
+}
+.heading-fonts a {
+  padding: 10px 30px;
+  color: white;
+  text-decoration: none;
+  background: orangered;
+  margin-top: 20px;
+  display: inline-block;
+  border-radius: 10px;
+}
+.donate-amount {
+  text-align: center;
+  margin-top: 200px;
+}
+.donate-amount h1 {
+  font-size: 35px;
+}
+.donate-amount .one {
+  color: red;
+  border: 3px solid red;
+  width: 60px;
+  background: gray;
+  padding: 30px 15px;
+  display: inline-block;
+  margin: 10px;
+  font-size: 25px;
+}
+.donate-amount .two {
+  color: red;
+  border: 3px solid red;
+  width: 60px;
+  background: gray;
+  padding: 30px 15px;
+  display: inline-block;
+  margin: 10px;
+  font-size: 25px;
+}
+.donate-amount .three {
+  color: red;
+  border: 3px solid red;
+  width: 60px;
+  background: rgb(189, 186, 186);
+  padding: 30px 15px;
+  display: inline-block;
+  margin: 10px;
+  font-size: 25px;
+}
+.donate-amount .four {
+  color: red;
+  border: 3px solid red;
+  width: 70px;
+  background: gray;
+  padding: 30px 15px;
+  display: inline-block;
+  margin: 10px;
+  font-size: 25px;
+}
+.donate-amount .five {
+  color: red;
+  border: 3px solid red;
+  width: 70px;
+  background: gray;
+  padding: 30px 15px;
+  display: inline-block;
+  margin: 10px;
+  font-size: 25px;
+}
+.mi p {
+  color: gray;
+  text-align: center;
+  margin-top: 40px;
+}
+.line {
+  width: 600px;
+  height: 1px;
+  background: rgb(243, 223, 223);
+  margin: 0 auto;
+  display: flex;
+}
+.wi a {
+  text-decoration: none;
+  text-align: center;
+  background: orangered;
+  width: 10%;
+  height: auto;
+  padding: 10px 30px;
+  left: 43%;
+  position: absolute;
+  float: right;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.donate-plan {
+  text-align: center;
+  margin-top: 150px;
+}
+.flexible-container {
+  display: flex;
+  margin: 30px 100px 70px;
+}
+.experience-item {
+  width: 50%;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding: 0px 10px;
+  border-radius: 10px;
+  text-align: justify;
+}
+.border-1 {
+  background: gray;
+}
+.border-2 {
+  background: pink;
+}
+.border-3 {
+  background: aqua;
+}
