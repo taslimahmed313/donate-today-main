@@ -181,17 +181,20 @@ body {
   margin: 50px 15%;
   border-radius: 5px;
 }
-.form-input form input {
-  padding: 8px 15px;
+.form-input form #email {
+  padding: 10px 15px;
   background: rgb(189, 186, 186);
   border: none;
+  border-radius: 5px 0 5px 0;
 }
-.form-input form a {
-  text-decoration: none;
+.form-input form #button {
+  border: none;
   background-color: tomato;
   color: white;
-  padding: 10px;
-  border-radius: 10px;
+  padding: 10px 15px;
+  text-align: center;
+  margin-left: -5px;
+  border-radius: 0 0 5px 5px;
 }
 footer {
   background-color: rgba(1, 11, 11, 0.955);
