@@ -3,7 +3,7 @@ body {
   font-family: "Roboto Slab", serif;
 }
 .first-part {
-  background-image: url(images/donation13.jpg);
+  background-image: url(./images/donation13.jpg);
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
