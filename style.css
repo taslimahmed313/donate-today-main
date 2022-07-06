@@ -12,11 +12,11 @@ body {
   display: inline-block;
   margin-top: 70px;
   text-align: center;
-  margin-left: 250px;
+  margin-left: 20%;
 }
 .heading-fonts h1 {
-  font-size: 45px;
-  color: aqua;
+  font-size: 50px;
+  color: rgb(253, 220, 6);
 }
 .heading-fonts p {
   color: white;
